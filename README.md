@@ -15,7 +15,8 @@ AI chatbots are powerful tools, but they can sometimes generate incorrect or mis
 
 InfoHound employs Retrieval-Augmented Generation (RAG) to provide factually accurate and contextually grounded chatbot interactions.  It integrates these key AI components:
 
-![RAG](https://github.com/Harshad165/InfoHound/assets/56105291/0d3de0b3-cffd-47d1-b0a5-81dc54110d80)
+![RAG](https://github.com/Harshad165/InfoHound/assets/56105291/170a97cc-26e4-4a78-b6e2-adbf0f2b3c37)
+
 
 * OpenAI Embeddings: Enable semantic similarity search, ensuring the most relevant website information is retrieved based on the user's query.
 * Chroma: Provides an efficient and scalable vector store for website content.
